@@ -1,0 +1,34 @@
+.card{
+    width: 500px;
+
+}
+ .display-flex{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.main-body {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+
+}
+.lien{
+    color:black;
+    }
+   .inf{
+    color:black
+
+
+ } 
+     
+
+body{
+    background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(230,253,45,0.8091970064392945) 100%);
+}
+
+
+    
+    
